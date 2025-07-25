@@ -24,3 +24,7 @@ This solution archives read-heavy billing data from Cosmos DB into Parquet files
 ## Architecture
 
 ![architecture](docs/architecture.png)
+
+
+Reference link for the convorsation I had with Chatgpt to get the solution for
+https://chatgpt.com/share/68833603-f838-8001-ac87-a23f5efee2fc
